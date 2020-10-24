@@ -1,0 +1,10 @@
+User-agent: Yandex
+Disallow: /
+Allow: /$
+Allow: /index.php$
+Allow: /course/info.php?id=6
+Allow: /course/view.php?id=6
+Allow: /course/info.php?id=7
+Allow: /course/view.php?id=7
+Allow: /course/info.php?id=13
+Allow: /course/view.php?id=13
